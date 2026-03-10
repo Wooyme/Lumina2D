@@ -1,0 +1,5 @@
+{
+  "name": "Lumina 2D",
+  "description": "A 2D light rendering tool to upload images, create layers, and apply global or layer-specific lighting.",
+  "requestFramePermissions": []
+}
